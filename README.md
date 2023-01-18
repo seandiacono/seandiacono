@@ -36,12 +36,6 @@
 
 ### 📈 My Stats :
 <div id='stats' align='center'>
-<a href="https://github-readme-stats.vercel.app/api?username=seandiacono&count_private=true&show_icons=true&theme=dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=seandiacono&theme=dark" />
-</a>
-<a href="https://github.com/m0rp43us">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seandiacono&theme=dark&hide=jupyter notebook" />
-</a>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=seandiacono&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="seandiacono" /></p>
 </div>
 
